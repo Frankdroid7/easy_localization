@@ -449,7 +449,7 @@ Steps:
 
 1. Open your terminal in the folder's path containing your project
 2. Run in terminal `flutter pub run easy_localization:generate`
-3. Change asset loader and past import.
+3. Change asset loader and paste import.
 
   ```dart
   import 'generated/codegen_loader.g.dart';
@@ -474,7 +474,7 @@ If you have many localization keys and are confused, key generation will help yo
 Steps:
 1. Open your terminal in the folder's path containing your project 
 2. Run in terminal `flutter pub run easy_localization:generate -f keys -o locale_keys.g.dart`
-3. Past import.
+3. Paste import.
 
 ```dart
 import 'generated/locale_keys.g.dart';
